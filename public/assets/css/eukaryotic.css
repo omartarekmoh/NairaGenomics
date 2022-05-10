@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo{
+    margin-left: 100px;
+}
+.head{
+background-image: url(../images/genome-biology-d2e8d23e04.jpg);
+}
+.Search{
+    margin-left: 310px;
+    width: 50%;
+    
+  
+
+}
+.nature{
+    margin-left: 10px;
+    margin-bottom: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.break{
+    color: aliceblue;
+}
+.btn1{
+    margin-right: 60px;
+    margin-bottom: 40px;
+    width: 110px;
+    height: 40px;
+    background-color: #20558A;
+    border: none;
+    color: aliceblue;
+}
+.btn{
+    background-color: #20558A;
+}
+.break{
+    background-color:   rgb(238, 232, 225);
+}
+.text{
+    margin-left: 250px;
+    width: 23%;
+    margin-bottom: 10px;
+}
+/*End NAV*/
+.first-homo{
+   
+    color: #323a45;
+    font-size: 1.875rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: bold;
+    line-height: 1.2;
+    font-style: italic;
+    margin-bottom: 16px;
+    letter-spacing: -0.00833em;
+}
+
+.headn i{
+    color: #fdb81e;
+    width: 30px;
+    height: 30px;
+    font-size: 30px;
+      
+}
+
+p{
+    font-size: 1.125rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.75;
+    letter-spacing: 0.00938em;
+}
+.descreption{
+    margin-top: 70px;
+}
+.des h5{
+    color: #5b616b;
+    font-size:20px0.875rem;
+    border-top: 1px solid;
+    font-weight: 500;
+    padding-top: 8px;
+    border-color: #f1f1f1;
+    padding-bottom: 4px;
+}
+.num h6{
+    font-size: 20px;
+    color: #212121;
+    border-top: 1px solid;
+    padding-top: 11.5px;
+    border-color: #f1f1f1;
+    padding-bottom: 4px;
+}
+.p-tax{
+    font-size:1.5rem;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.00938em;
+    margin-top: 15px;
+}
+.a-tax{
+    text-decoration: none;
+}
+.a-tax:hover{
+  text-decoration: underline;
+}
+
+.txt1{
+    margin-bottom: 50px;
+    border-bottom: 7px solid #8ba6ca;
+}
+
+.ref-genome{
+    margin-top: 60px;
+    border-top: 1px solid #d6d7d9;
+}
+
+/* Footer*/
+
+footer{ 
+    background-color: rgb(147, 152, 197); 
+    padding: 30px 0px; 
+} 
+footer h4{ 
+    text-align: center; 
+    color: white; 
+    background-color:rgb(147, 152, 197) ; 
+    margin-bottom: 40px; 
+     
+} 
+footer i { 
+    color: rgb(218, 214, 243); 
+    margin-bottom: 25px; 
+    font-size: 40px; 
+    margin-left: 165px; 
+     
+     
+} 
+footer p{ 
+    margin-top: 20px; 
+    color: rgb(255, 255, 255); 
+    text-align: center; 
+} 
+.footer-nav{ 
+    float: left; 
+    list-style: none; 
+    font-size: large; 
+    margin-top: 20px; 
+     
+ 
+} 
+.footer-nav li{ 
+    display: flex; 
+    margin-left: 2px; 
+     
+     
+ 
+} 
+.footer-nav li a{ 
+    color: rgb(255, 255, 255); 
+    text-decoration: none; 
+    text-transform: capitalize; 
+    letter-spacing: 1px; 
+} 
+.footer-nav li a:hover{ 
+    color: orange; 
+    text-decoration: underline; 
+}

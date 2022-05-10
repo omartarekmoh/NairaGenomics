@@ -1,0 +1,160 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.logo{
+    margin-left: 100px;
+}
+.head{
+background-image: url(../images/msg-1432466360-2458.jpg);
+}
+.Search{
+    margin-left: 310px;
+    width: 50%;
+    
+  
+
+}
+.nature{
+    margin-left: 10px;
+    margin-bottom: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.break{
+    color: aliceblue;
+}
+.btn1{
+    margin-right: 60px;
+    margin-bottom: 40px;
+    width: 110px;
+    height: 40px;
+    background-color: #20558A;
+    border: none;
+    color: aliceblue;
+}
+.btn{
+    background-color: #20558A;
+}
+.break{
+    background-color:   rgb(238, 232, 225);
+}
+.text{
+    margin-left: 250px;
+    width: 23%;
+    margin-bottom: 10px;
+}
+
+#Datasets{
+    background-image: url(https://www.ncbi.nlm.nih.gov/datasets/static/datasets/img/home/hero-1920x1080.png);
+    background-position: center;
+    background-size: cover;
+}
+.resource{
+    font-weight: 670;
+    font-size: 19px;
+    text-align: left;
+}
+.right{
+   
+    box-shadow: 0 3px 6px #A4A4A4;
+   
+    margin-top: 40px;
+}
+.right1{
+margin-top: 65px;
+}
+.right p{
+margin-left: 30px;
+}
+.right h3{
+margin-left: 30px;
+}
+.right button{
+margin-left: 30px;
+margin-bottom: 10px;
+}
+
+.mariam {
+    margin-top: -40px;
+    margin-left: 10px;
+    color: white;
+    
+    
+}
+.list{
+   list-style: none;
+   margin-top: 30px;
+   text-align: left;
+  
+}
+.list a{
+    text-decoration: none;
+    font-style: italic;
+    font-size: 18px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+footer{ 
+    background-color: rgb(147, 152, 197); 
+    padding: 30px 0px; 
+    } 
+    footer h4{ 
+    text-align: center; 
+    color: white; 
+    background-color:rgb(147, 152, 197) ; 
+    margin-bottom: 40px; 
+    
+    } 
+    footer i { 
+    color: rgb(218, 214, 243); 
+    margin-bottom: 25px; 
+    font-size: 40px; 
+    margin-left: 210px; 
+    
+    } 
+    footer p{ 
+    margin-top: 20px; 
+    color: rgb(255, 255, 255); 
+    text-align: center; 
+    } 
+    .footer-nav{ 
+    float: left; 
+    list-style: none; 
+    font-size: large; 
+    margin-top: 20px; 
+
+
+    } 
+    .footer-nav li{ 
+    display: flex; 
+    margin-left: 2px; 
+   
+    
+    } 
+    .footer-nav li a{ 
+    color: rgb(255, 255, 255); 
+    text-decoration: none; 
+    text-transform: capitalize; 
+    letter-spacing: 1px; 
+    } 
+    .footer-nav li a:hover{ 
+    color: orange; 
+    text-decoration: underline; 
+    }
+
+
+
+
+
+    
